@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## 🔨 Once I've used 🔨
 <p><strong>Programming Language</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src = "https://img.shields.io/badge/R?logoColor=rgb">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=R&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 <!-- Database -->
