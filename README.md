@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%Yoon%Kyu&fontSize=60)
-
-### Hi there 👋
+###
 <div align='center'>
-To know more info about me, Plz look over my CV.
+ Hi there 👋
+<div align='center'>
 </div>
+    
+To know more info about me, Plz look over my CV.
+
 
 <div align="center">
 :arrow_right: <a href="https://github.com/PrayPrey/PrayPrey/blob/main/WooYoonKyu_CV_Final.pdf"><b>CV</b></a>
