@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%Yoon%Kyu&fontSize=60)
 
 
-## 🔨 Once I've used 🔨
+##  Once I've used 
 <p><strong>Programming Language</strong></p>
 <div>
     <img src="https://img.shields.io/badge/R-007396?style=for-the-badge&logo=R&logoColor=white"> 
