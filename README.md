@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 To know more info about me, Plz look over my CV.
+<div align="center">
+:arrow_right: <a href="https://github.com/PrayPrey/PrayPrey/blob/main/WooYoonKyu_CV_Final.pdf"><b>CV</b></a>
+</div>
+
+
 To contact me, Pls use Email
+
+
 
 ##  Once I've used 
 
