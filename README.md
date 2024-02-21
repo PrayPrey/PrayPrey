@@ -25,11 +25,18 @@ To know more info about me, Plz look over my CV.
 </div>
 
 
+<div align='center'>
 To contact me, Pls use Email
+</div>
+<div align="center">
+<a href="mailto:yoon303@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-DCDCDC?style=flat-square&logo=Gmail&logoColor=EA4335"/>
+</div>
 
 
 
-##  Once I've used 
+
+
+
 
 
 ##  Once I've used 
