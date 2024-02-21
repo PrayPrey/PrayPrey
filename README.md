@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 ###
 <div align='center'>
 Hi there 👋
+
+</div>
+
+<div align='center'>
 To know more info about me, Plz look over my CV.
 </div>
-    
 
 
 
