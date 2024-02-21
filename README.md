@@ -35,11 +35,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
 </div>
-<!-- Version Control -->
-<p><strong>Version Control</strong></p>
-<div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</div>
+
 </div><br>
 </div>
