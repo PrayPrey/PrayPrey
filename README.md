@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%Yoon%Kyu&fontSize=60)
 
 ### Hi there 👋
+<div align='center'>
+To know more info about me, Plz look over my CV.
+</div>
 
 <div align="center">
-To know more info about me, Plz look over my CV.
 :arrow_right: <a href="https://github.com/PrayPrey/PrayPrey/blob/main/WooYoonKyu_CV_Final.pdf"><b>CV</b></a>
 </div>
 
