@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%Yoon%Kyu&fontSize=60)
 ###
-<div align='center'>
-Hi there 👋
 
-</div>
-
+<div align="center"><h1>&nbsp;&nbsp;Hi there 👋:</h1>
 <div align='center'>
 To know more info about me, Plz look over my CV.
 </div>
