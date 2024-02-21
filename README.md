@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PrayPrey/PrayPrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%Yoon%Kyu&fontSize=60)
+
+### Hi there 👋
+To know more info about me, Plz look over my CV.
+To contact me, Pls use Email
+
+##  Once I've used 
 
 
 ##  Once I've used 
@@ -38,3 +43,16 @@ Here are some ideas to get you started:
 
 </div><br>
 </div>
+
+## Tech Stack 💻
+
+<div align="center"><h1>Tech Stack :computer:</h1>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</div>
+
+
