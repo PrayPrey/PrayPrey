@@ -38,11 +38,7 @@ To contact me, Pls use Email
 
 
 
-
-
-
-
-<div align="center"> ##  Once I've used </div>
+ ##  Once I've used 
 <p><strong>Programming Language</strong></p>
 <div>
     <img src="https://img.shields.io/badge/R-007396?style=for-the-badge&logo=R&logoColor=white"> 
@@ -64,7 +60,7 @@ To contact me, Pls use Email
 </div><br>
 </div>
 
-<div align="center"> ## Tech Stack 💻 </div>
+## Tech Stack 💻 
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
