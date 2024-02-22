@@ -64,7 +64,7 @@ To contact me, Pls use Email
 </div><br>
 </div>
 
-## Tech Stack 💻
+<div align="center"> ## Tech Stack 💻 </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
