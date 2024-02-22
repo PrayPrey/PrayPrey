@@ -42,7 +42,7 @@ To contact me, Pls use Email
 
 
 
-##  Once I've used 
+<div align="center"> ##  Once I've used </div>
 <p><strong>Programming Language</strong></p>
 <div>
     <img src="https://img.shields.io/badge/R-007396?style=for-the-badge&logo=R&logoColor=white"> 
